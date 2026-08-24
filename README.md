@@ -192,14 +192,17 @@ fun_fact: "I treat my terminal like a second home. 🐧"
   <img height="170" src="https://streak-stats.demolab.com?user=Akshay-Works&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
-<!-- Contribution snake animation -->
+<!-- 🐍 OPTIONAL UPGRADE — contribution-grid snake animation.
+     Requires the workflow at .github/workflows/snake.yml to run first.
+     Add `workflows` permission to your deploy token, commit the workflow,
+     then uncomment the <picture> block below. The `output` branch SVGs will then render live.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akshay-Works/ReadMe/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akshay-Works/ReadMe/output/github-contribution-grid-snake.svg" />
   <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/Akshay-Works/ReadMe/output/github-contribution-grid-snake-dark.svg" />
 </picture>
-
 <br/>
+-->
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Akshay-Works&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="GitHub Trophies" />
